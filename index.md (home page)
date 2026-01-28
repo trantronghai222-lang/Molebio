@@ -1,0 +1,32 @@
+```markdown
+---
+title: Home
+layout: home
+permalink: /
+---
+
+# Metalytic — Project Title
+
+**Short tagline:** Biosensor platform for heavy metal monitoring.
+
+[Request investment](#funding){: .btn }
+
+<section class="hero">
+  <img src="/assets/img/hero-placeholder.svg" alt="Hero image placeholder" class="hero-image">
+  <div class="hero-overlay">
+    <h2>Highlight: replace this hero with your project artwork</h2>
+    <p>Keep the same filename to swap quickly: <code>/assets/img/hero-placeholder.svg</code></p>
+  </div>
+</section>
+
+## Quick links
+- [Description](/description)
+- [Engineering](/engineering)
+- [Results](/results)
+- [Team](/team)
+
+## Funding Request
+We are seeking **$XX,XXX** for prototype development and field testing.  
+Timeline: 12 months — milestones visible on Results page.
+
+```
