@@ -1,0 +1,18 @@
+```markdown
+---
+title: Engineering
+permalink: /engineering
+---
+
+## Engineering cycles
+
+Describe design → build → test cycles.
+
+### Chromoprotein reporters
+- Why choose chromoproteins
+- Expression and chassis info
+
+### Hardware (AI vision)
+![Hardware mockup](/assets/img/hardware-placeholder.svg){: .figure }
+
+```
