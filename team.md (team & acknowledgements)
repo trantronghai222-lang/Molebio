@@ -1,0 +1,14 @@
+```markdown
+---
+title: Team
+permalink: /team
+---
+
+## Our Team
+
+List team members, schools, advisors, contact details.
+
+![Team photo placeholder](/assets/img/team-placeholder.svg){: .figure }
+
+Contact: your-email@example.com
+```
