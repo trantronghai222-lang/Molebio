@@ -1,0 +1,43 @@
+title: "Metalytic-style Wiki"
+email: "your-email@example.com"
+description: "A laboratory-style project wiki with image placeholders ready to replace"
+url: "https://YOURUSERNAME.github.io" # replace when ready
+baseurl: "" # leave blank for root sites
+
+# Use the Minimal Mistakes remote theme (supported on GitHub Pages)
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation and theme options
+theme:
+  name: minimal-mistakes-jekyll
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single-column"
+
+# Repository link shown in the theme header
+repository: "https://github.com/YOURUSERNAME/YOURREPO"
+
+# Enable showing edit links (optional)
+show_edit_link: true
+edit_link:
+  repository: "YOURUSERNAME/YOURREPO"
+  branch: "main"
+  src_path: ""
+
+# Assets
+assets:
+  sources:
+    - assets
+
+# Exclude these from Jekyll build
+exclude:
+  - Gemfile
+  - Gemfile.lock
